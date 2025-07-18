@@ -1,1 +1,1 @@
-# afribioCompute
+# afribioCompWWP
